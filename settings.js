@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @ nanat cantii
+› Base Ori @ nanad cantii
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
