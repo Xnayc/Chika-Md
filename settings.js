@@ -1,6 +1,6 @@
 /*
-› Create By @ nanat cantii
-› Base Ori @ nanad cantii
+› Create By @ nanat store
+› Base Ori @ nanad store
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,7 +22,7 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281649370524','6288215968464'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281649370524','6281649370524','6281617247994'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6281649370524'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '6281649370524' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
